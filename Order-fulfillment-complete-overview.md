@@ -1,3 +1,25 @@
+```mermaid
+graph TD;
+  A[Order comes in] --> B[SO created by PM, Fulfillment Lead, or Shopify];
+  B --> C[PM notifies LM if bulk work is needed with link to SO];
+  C --> D[LM prepares work ticket];
+  D -->|Includes SO number, batch record, Inflow MO link, complexity points, batch codes, subitems| E{Lab Tech completes work};
+  
+  E -->|Uploads batch record, Labels three samples: stability, retention, QA| F{ moves ticket to QA};
+  F --> G[QA & Tech Lead oversee quality and documentation];
+  
+  G -->|Lab Tech Lead creates COA| H[QA sample shipped to CTLA];
+  G -->|QA uses COA in production| I[Paperwork returned to Tech Lead];
+  
+  H & I --> J[Lab Tech Lead closes bulk ticket & notifies PM];
+  J --> K[PM moves SO forward with production & fulfillment];
+  K --> L[PM marks Inflow SO as fulfilled];
+  L --> M[Review SO stats and Monday workflow stats in sprints];
+
+```
+
+
+
 1. Order comes in and a SO is created by PM, Fulfillment Lead, or Shopify
 2. If the SO is created by the PM, PM notifies LM if bulk work is needed.  
 3. LM prepares a ticket for work with the following data:
