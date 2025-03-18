@@ -69,14 +69,3 @@ Anything else that needs to be discussed
 
 
 
-
-
-
-
-Batch records and MO - why would we have an MO that is outside the size of an approved batch size? 
-- Open for discussion - An MO for bulk product should be
-	- a batch code size 
-	- some other size 
-
-
-
