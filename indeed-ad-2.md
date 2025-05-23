@@ -45,7 +45,7 @@ This internship opens doors to a fast-growing company with active expansion in *
 
 ### ✅ **Ideal Candidates**
 
-* Reliable, detail-oriented, and eager to learn
+* Reliable, detail-oriented, and eager to learn 
 * Interested in lab work, product development, or operational workflows
 * No prior experience required — just curiosity and a strong work ethic
 
