@@ -30,7 +30,7 @@ You’ll work side-by-side with our chemists and experienced lab techs — and c
 ### 🚀 **What You’ll Gain**
 
 * Hands-on training in batch manufacturing and QA
-* Experience with professional tools (Inflow, Monday.com, internal SOPs)
+* Experience with professional tools (Inflow, Slack, Monday.com, internal SOPs, CRM)
 * Exposure to **agile project management workflows**
 * Proximity to cross-functional teams in **sales, R\&D, and production**
 * A path to grow into roles in:
