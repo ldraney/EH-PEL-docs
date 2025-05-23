@@ -13,7 +13,7 @@ Pure Earth Labs is hiring interns to join our lab team. This is a hands-on role 
 
 Each shift, you’ll follow a clear, structured workflow, working alongside your team of fellow lab techs and chemists:
 
-1. **Receive a Batch Assignment**
+1. **Receive a Batch Assignment with Modern Software**
 
    * Includes a **Batch Record**, **Manufacturing Order (MO)** link, and **Work ticket**
 2. **Compound the Formula**
