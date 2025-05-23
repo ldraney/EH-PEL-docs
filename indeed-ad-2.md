@@ -11,11 +11,11 @@ Pure Earth Labs is hiring interns to join our lab team. This is a hands-on role 
 
 ### 🧪 **What You’ll Do**
 
-Each shift, you’ll follow a clear, structured workflow:
+Each shift, you’ll follow a clear, structured workflow, working alongside your team of fellow lab techs and chemists:
 
 1. **Receive a Batch Assignment**
 
-   * Includes a **Batch Record**, **Inflow Manufacturing Order (MO)** link, and **Monday.com ticket**
+   * Includes a **Batch Record**, **Manufacturing Order (MO)** link, and **Work ticket**
 2. **Compound the Formula**
 
    * Weigh, mix, and track materials according to SOPs
@@ -53,7 +53,7 @@ This internship opens doors to a fast-growing company with active expansion in *
 
 ### 📅 **Timeline**
 
-* **Start:** As early as May 19
+* **Start:** Immediately after our interview process 
 * **Flexible Hours:** Full-time or part-time
 * **On-Site Only:** \[Insert city/state if needed]
 
